@@ -1,5 +1,4 @@
-﻿using Laboratorio1;
-using System;
+﻿using System;
 
 class program
 {
@@ -105,6 +104,7 @@ class program
         }
 
     }
+
 
 
 
