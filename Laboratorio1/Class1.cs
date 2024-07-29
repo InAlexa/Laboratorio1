@@ -37,10 +37,7 @@ namespace Laboratorio1
 
     }
 
-    public void MenuPrincipal()
-    {
 
-    }
     
 
 
