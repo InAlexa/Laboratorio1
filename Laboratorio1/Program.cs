@@ -107,7 +107,6 @@ class program
 
 
 
-
     private static int IngresarCantidadProductos(object cantidadDeProductos)
     {
         throw new NotImplementedException();
@@ -120,5 +119,6 @@ class program
         Console.WriteLine("La cantidad de productos a ingresar es: "+cantidadDeProductos);
         return cantidadDeProductos;
     }
+
 }
 
